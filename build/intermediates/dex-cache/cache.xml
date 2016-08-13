@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeevitha.royapathi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jeevitha.royapathi/Downloads/Lab4/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_8dd8395e1d19e6d6378471b4e0faa44808d83829.jar" />
+    </item>
+    <item
+        jar="/Users/jeevitha.royapathi/Downloads/Lab4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/jeevitha.royapathi/Downloads/Lab4/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_00de4446d98c9e1eb4ebe71936a443f8125f91f2.jar" />
+    </item>
+    <item
+        jar="/Users/jeevitha.royapathi/Downloads/Lab4/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/jeevitha.royapathi/Downloads/Lab4/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.0_31e89e5d5106eb5e86cb9176e312730365d129a6.jar" />
+    </item>
+    <item
+        jar="/Users/jeevitha.royapathi/Downloads/Lab4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jeevitha.royapathi/Downloads/Lab4/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_fbe580dec248ca12d2ef06f339fc49a34329d4e7.jar" />
+    </item>
+    <item
+        jar="/Users/jeevitha.royapathi/Downloads/Lab4/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jeevitha.royapathi/Downloads/Lab4/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_11ee3c06c3fcbd2ddc10ddc42089f41c8fa9ae25.jar" />
+    </item>
+
+</items>
